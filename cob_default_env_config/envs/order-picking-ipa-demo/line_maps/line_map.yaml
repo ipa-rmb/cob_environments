@@ -1,7 +1,7 @@
 source_id: "laserline"
 features:
   - id: 0
-    source: [0.0, 6.725, 0.0]
+    source: [0.0, 6.76, 0.0]
     target: [0.0, 5.655, 0.0]
     description: line_0
   - id: 1
@@ -28,3 +28,19 @@ features:
     source: [-4.765, 0.86, 0.0]
     target: [-5.965, 0.86, 0.0]
     description: line_6
+  - id: 7
+    source: [-5.965, 0.86, 0.0]
+    target: [-5.965, 0.0, 0.0]
+    description: line_7
+  - id: 8
+    source: [-5.965, 0.0, 0.0]
+    target: [-8.015, 0.0, 0.0]
+    description: line_8
+  - id: 9
+    source: [-8.015, 0.0, 0.0]
+    target: [-8.015, 6.76, 0.0]
+    description: line_9
+  - id: 10
+    source: [-8.015, 6.76, 0.0]
+    target: [0.0, 6.76, 0.0]
+    description: line_10
