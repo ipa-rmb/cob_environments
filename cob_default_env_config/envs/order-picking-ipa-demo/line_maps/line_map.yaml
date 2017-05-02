@@ -34,13 +34,29 @@ features:
     description: line_7
   - id: 8
     source: [0.0, -5.965, 0.0]
-    target: [0.0, -8.015, 0.0]
+    target: [0.0, -6.115, 0.0]
     description: line_8
   - id: 9
-    source: [0.0, -8.015, 0.0]
-    target: [-6.76, -8.015, 0.0]
+    source: [0.0, -6.115, 0.0]
+    target: [-0.575, -6.115, 0.0]
     description: line_9
   - id: 10
+    source: [-0.575, -6.115, 0.0]
+    target: [-0.575, -7.115, 0.0]
+    description: line_10
+  - id: 11
+    source: [-0.575, -7.115, 0.0]
+    target: [0.0, -7.115, 0.0]
+    description: line_11
+  - id: 12
+    source: [0.0, -7.115, 0.0]
+    target: [0.0, -8.015, 0.0]
+    description: line_12
+  - id: 13
+    source: [0.0, -8.015, 0.0]
+    target: [-6.76, -8.015, 0.0]
+    description: line_13
+  - id: 14
     source: [-6.76, -8.015, 0.0]
     target: [-6.76, 0.0, 0.0]
-    description: line_10
+    description: line_14
